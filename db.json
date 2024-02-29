@@ -1,0 +1,17 @@
+{
+  "blog": [
+    {
+      "Name": "Raza butt",
+      "Title": "Senior HVAC installer",
+      "Description": "Senior HVAC installer who serve according to your demands ",
+      "Date": "2024-01-06",
+      "comment": [
+        "hard working person",
+        "a responsible person for any work",
+        "person belongs to a higher company"
+      ],
+      "id": 1,
+      "Like": 9
+    }
+  ]
+}
